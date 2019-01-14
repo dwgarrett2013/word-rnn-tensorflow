@@ -143,3 +143,9 @@ If you have any project using this word-rnn, please let us know. I'll list up yo
 
 # Contribution
 Your comments (issues) and PRs are always welcome.
+
+# Source for proces
+https://medium.com/deep-writing/how-to-write-with-artificial-intelligence-45747ed073c
+
+#Data Sources
+https://www.floydhub.com/whatrocks/datasets/commencement
