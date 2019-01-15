@@ -1,0 +1,7 @@
+reading text file
+WARNING:tensorflow:From /root/word-rnn-tensorflow/model.py:27: __init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+2019-01-14 16:29:27.942192: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+0/28300 (epoch 0), train_loss = 10.924, time/batch = 2.402
+model saved to save/model.ckpt
